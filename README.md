@@ -45,10 +45,14 @@ A high-performance dashboard built with modular, modern vanilla JavaScript (ES6+
 
 ---
 
-## 📊 GitHub Performance
+## 📊 Tech Stack Focus
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamiloAlarcon11&show_icons=true&theme=tokyonight&count_private=true" alt="Camilo's GitHub Stats" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ---
